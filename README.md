@@ -78,6 +78,7 @@ The simulator displays the beam intensity, polarization-vector distribution, nor
 
 <sub>🔗 [Open the repository](https://github.com/kararwaldeepak/Kararwaldeepak-broadband-thz-vector-beams)</sub><br>
 <sub>🌐 [Run the live simulation](https://kararwaldeepak.github.io/Kararwaldeepak-broadband-thz-vector-beams/)</sub>
+
 ---
 
 ## 📫 Connect
