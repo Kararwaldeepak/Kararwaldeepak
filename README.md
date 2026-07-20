@@ -50,26 +50,25 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ## 🚀 Featured Projects
 
-### ⚡ Understanding a Time-Domain THz Pulse
+### 🌀 Interactive Light Polarization Simulator
 
-An interactive educational simulation explaining the time-dependent THz electric field \(E(t)\), Fourier-amplitude spectrum, spectral phase, pulse duration, chirp, reflections, and measurement noise in terahertz time-domain spectroscopy.
+An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal sinusoidal electric-field components.
 
-🔗 [Open the repository](https://github.com/Krdeepak-THz/thz-time-domain-pulse)
+The simulator displays the polarization ellipse, animated electric-field trajectory, side and top propagation views, component waveforms, Stokes parameters, orientation angle, ellipticity angle, and handedness.
 
-🌐 [Run the live simulation](https://krdeepak-thz.github.io/thz-time-domain-pulse/)
+🔗 [Open the repository](https://github.com/kararwaldeepak/light-polarization-simulator)
+
+🌐 [Run the live polarization simulation](https://kararwaldeepak.github.io/light-polarization-simulator/)
 
 ---
 
-### 🌀 Interactive Light Polarization Simulator
+### ⚡ Understanding a Time-Domain THz Pulse
 
-An interactive simulation for constructing and understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal sinusoidal electric-field components.
+An interactive educational simulation explaining the time-dependent THz electric field, Fourier-amplitude spectrum, spectral phase, pulse duration, chirp, reflections, and measurement noise.
 
-The simulator includes the polarization ellipse, animated electric-field trajectory, side and top propagation views, component waveforms, Stokes parameters, orientation angle, ellipticity angle, and handedness.
+🔗 [Open the THz repository](https://github.com/kararwaldeepak/thz-time-domain-pulse)
 
-🔗 [Open the repository](https://github.com/Krdeepak-THz/light-polarization-simulator)
-
-🌐 [Run the live simulation](https://krdeepak-thz.github.io/light-polarization-simulator/)
-
+🌐 [Run the THz simulation](https://kararwaldeepak.github.io/thz-time-domain-pulse/)
 ---
 
 ## 📫 Connect
