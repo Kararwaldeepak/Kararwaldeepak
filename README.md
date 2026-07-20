@@ -48,7 +48,7 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ---
 
-## Projects
+## My projects
 
 ### I. Polarization of Light
 
