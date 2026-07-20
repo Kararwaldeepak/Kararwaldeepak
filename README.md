@@ -17,7 +17,7 @@ Welcome to the World of Terahertz (THz) Science
 </h3>
 
 <h3 align="center">
-PhD Student in Terahertz Optics and Photonics<br>
+PhD Student (Spayio-temporal encryption of terahertz light) at <br>
 Department of Electrical Engineering<br>
 École de technologie supérieure — ÉTS Montréal
 </h3>
