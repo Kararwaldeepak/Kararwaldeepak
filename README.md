@@ -17,13 +17,13 @@ Department of Electrical Engineering, École de technologie supérieure (ÉTS Mo
 
 ## 👨‍🔬 Research Background
 
-My research focuses on broadband THz generation, structured THz vector beams, spatially resolved polarization analysis, hollow-core metallic waveguides, and terahertz time-domain spectroscopy.
+My research focuses on broadband THz generation, structured THz vector beams, spatio-spectral polarization analysis of broadband THz pulses, hollow-core circular metallic waveguides, and terahertz time-domain spectroscopy.
 
 I combine experimental optics, electromagnetic simulations, signal processing, and scientific visualization to investigate THz emission, propagation, polarization, and light–matter interactions.
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research areas
 
 - ⚡ Broadband terahertz generation and detection.
 - 🌊 Radially and azimuthally polarized THz vector beams.
@@ -32,7 +32,7 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 - 📈 THz time-domain and frequency-domain analysis.
 - 🧲 Magnetic-field tailoring of broadband THz vector fields using spintronic THz emitters.
 - 💻 Python-based simulation and scientific data analysis.
-
+- 🌊 Optics of birefringent media (Liquid crystals, uniaxial crystals etc.).
 ---
 
 ## 🛠️ Research Tools
