@@ -87,13 +87,12 @@ Department of Electrical Engineering<br>
   </a>
 </p>
 
-> **Published in Applied Physics Letters:** This work presents the spatio-spectral full-Stokes characterization of broadband terahertz pulses, enabling spatially and spectrally resolved mapping of their complete polarization state.
+> **Published in Applied Physics Letters:** We report a method for full-Stokes spatio-spectral characterization of broadband terahertz pulses from 0.5 to 2.5 THz. By combining two-dimensional electro-optic sampling with frequency-resolved Stokes analysis, we retrieve the complete polarization state of a terahertz field at each frequency component and at every point across the beam profile......
 
 ### 🔴 Latest Updates
 
 | Date | Update |
-|:---:|---|
-| **July 2026** | Development of interactive scientific tools for broadband THz pulse, vector-beam, and spatiotemporal field visualization. |
+| **July 2026** | Generation and detection of broadband THz vector beam from a spintronic emitter (To be communicated).|
 
 <p align="right">
   <a href="#top">Back to top ↑</a>
