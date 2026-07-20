@@ -97,8 +97,12 @@ Department of Electrical Engineering<br>
 > **Published in Applied Physics Letters:** We report a method for full-Stokes spatio-spectral characterization of broadband terahertz pulses from 0.5 to 2.5 THz. By combining two-dimensional electro-optic sampling with frequency-resolved Stokes analysis, we retrieve the complete polarization state of a terahertz field at each frequency component and at every point across the beam profile......
 
 ### 🔴 Latest Updates
-| **July 2026** | Generation and detection of broadband THz vector beam from a spintronic emitter (To be communicated in near future...).|
-|**Jan 2027**| Broadband THz vortex beam from a spintronic emitter (tentative...)|
+
+* **July 2026:** Generation and detection of broadband THz vector beams from a spintronic emitter. *To be communicated.*
+* **October 2026:** Coupling properties of broadband terahertz (THz) pulses in hollow core circular waveguides. *To be communicated.*
+* **January 2027:** Broadband THz vortex-beam generation from a spintronic emitter. *Tentative.*
+
+
 <p align="right">
   <a href="#top">Back to top ↑</a>
 </p>
