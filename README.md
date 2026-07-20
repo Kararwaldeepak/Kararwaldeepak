@@ -1,5 +1,5 @@
 can you give it a different look: first i wan tto visulize here itself: <h1 align="center">Welcome to the World of Terahertz (THz) Science <small>— KARARWAL Deepak</small></h1>
-
+<h1 align="center"><small>— Research is my passion</small></h1>
 <h3 align="center">
 PhD student in Terahertz Optics and Photonics<br>
 Department of Electrical Engineering, École de technologie supérieure (ÉTS Montréal)
