@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to the World of terahertz (THz)
 
 <!--
 **Krdeepak-THz/Krdeepak-THz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
