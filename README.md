@@ -51,7 +51,7 @@ and scientific visualization to investigate THz emission, propagation, and polar
 
 ---
 
-## 🚀 Featured Project
+## PROJECTS
 
 ### ⚡ Understanding a Time-Domain THz Pulse
 
