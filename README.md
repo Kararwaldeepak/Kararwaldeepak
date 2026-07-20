@@ -75,7 +75,7 @@ An interactive educational simulation explaining the time-dependent THz electric
 
 An interactive educational simulation explaining the time-dependent THz electric field, Fourier-amplitude spectrum, spectral phase, pulse duration, chirp, reflections, and measurement noise.
 
-🔗 [https://github.com/kararwaldeepak/broadband-thz-vector-beams]
+🔗 [https://github.com/Kararwaldeepak/Kararwaldeepak-broadband-thz-vector-beams]
 
 🌐 [https://kararwaldeepak.github.io/Kararwaldeepak-broadband-thz-vector-beams/]
 ---
