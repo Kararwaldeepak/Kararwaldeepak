@@ -27,7 +27,7 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 - ⚡ Broadband terahertz generation and detection.
 - 🌊 Radially and azimuthally polarized THz vector beams.
-- 🧭 Stokes polarimetry and spectrally resolved, spatial polarization mapping.
+- 🧭 Stokes polarimetry and spectrally-resolved spatial-polarization mapping.
 - 📡 Hollow-core metallic THz waveguides.
 - 📈 THz time-domain and frequency-domain analysis.
 - 🧲 Magnetic-field tailoring of broadband THz vector fields using spintronic THz emitters.
