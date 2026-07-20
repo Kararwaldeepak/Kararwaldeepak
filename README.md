@@ -91,10 +91,7 @@ Department of Electrical Engineering<br>
 
 ### 🔴 Latest Updates
 | **July 2026** | Generation and detection of broadband THz vector beam from a spintronic emitter (To be communicated in near future...).|
-
-<p align="left">
-|**Jan 2027** | Broadband THz vortex beam from a spintronic emitter (tentative...)|
-</p>
+|**Jan 2027**| Broadband THz vortex beam from a spintronic emitter (tentative...)|
 <p align="right">
   <a href="#top">Back to top ↑</a>
 </p>
