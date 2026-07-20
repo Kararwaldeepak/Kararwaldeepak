@@ -25,13 +25,13 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ## 🔬 Research Interests
 
-- ⚡ Broadband terahertz generation and detection
-- 🌊 Radially and azimuthally polarized THz vector beams
-- 🧭 Stokes polarimetry and spatial polarization mapping
-- 📡 Hollow-core metallic THz waveguides
-- 📈 THz time-domain and frequency-domain analysis
-- 🧲 Magnetic-field tailoring of THz polarization using spintronic THz emitters
-- 💻 Python-based simulation and scientific data analysis
+- ⚡ Broadband terahertz generation and detection.
+- 🌊 Radially and azimuthally polarized THz vector beams.
+- 🧭 Stokes polarimetry and spectrally resolved, spatial polarization mapping.
+- 📡 Hollow-core metallic THz waveguides.
+- 📈 THz time-domain and frequency-domain analysis.
+- 🧲 Magnetic-field tailoring of broadband THz vector fields using spintronic THz emitters.
+- 💻 Python-based simulation and scientific data analysis.
 
 ---
 
@@ -48,7 +48,7 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
 ### 🌀 Interactive Light Polarization Simulator
 
