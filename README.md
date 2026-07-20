@@ -59,7 +59,7 @@ An interactive educational simulation explaining the time-dependent electric fie
 \(E(t)\), Fourier-amplitude spectrum, spectral phase, chirp, reflections, and noise  
 in terahertz time-domain spectroscopy.
 
-🔗 [Open the repository](https://kararwaldeepak.github.io/thz-time-domain-pulse/)
+🔗 [Open the repository](https://github.com/Kararwaldeepak/Kararwaldeepak)
 
 🌐 [Run the live simulation](https://kararwaldeepak.github.io/thz-time-domain-pulse/)
 
