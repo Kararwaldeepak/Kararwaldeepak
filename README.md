@@ -150,7 +150,7 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ## Projects
 
-### I. What is Polarization of Light? 
+### I. An interactive platform to study polarization of Light. 
 
 Read here, An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal electric-field components.
 
@@ -183,7 +183,11 @@ The simulator displays the beam intensity, polarization-vector distribution, nor
 
 ### IV. Spatiotemporal evolution of THz Electric-Field
 
-An interactive educational simulation that explains how a sequence of two-dimensional THz electric-field images forms a complete spatiotemporal dataset, (E_x(x,y,t)) and (E_y(x,y,t)), and how it is transformed into frequency-resolved THz field maps.
+Do you know THz-time domain spectroscopy gives you the real time electric field of light?
+Using Electro-optic sampling of THz waves you can see the real-time electric field of light!
+Thanks to the property of Fourier transform and time-domain sampling.
+
+Here is an interactive educational platform that explains how a sequence of two-dimensional THz electric-field images forms a complete spatiotemporal dataset, (E_x(x,y,t)) and (E_y(x,y,t)), and how it is transformed into frequency-resolved THz field maps.
 
 The simulator calculates and visualizes the delay-stage scan length, temporal sampling interval, total time window, frequency resolution, Nyquist frequency, number of time-domain and frequency-domain frames, THz pulse width, spectral bandwidth, spatial electric-field distribution, frequency-resolved field maps, spatiotemporal (x)-(t) maps, and animated THz pulse evolution.
 
