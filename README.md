@@ -1,3 +1,10 @@
+<a href="https://www.researchgate.net/profile/Deepak-Kararwal-2">
+  <img
+    src="https://img.shields.io/badge/ResearchGate-Deepak%20Kararwal-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"
+    alt="ResearchGate Profile">
+</a>
+
+
 <a id="top"></a>
 
 <h1 align="center">
