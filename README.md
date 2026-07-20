@@ -61,7 +61,7 @@ in terahertz time-domain spectroscopy.
 
 🔗 [Open the repository](https://github.com/Kararwaldeepak/Kararwaldeepak)
 
-🌐 [Run the live simulation](https://kararwaldeepak.github.io/thz-time-domain-pulse/)
+🌐 [Run the live simulation](https://kararwaldeepak.github.io/thz-time-domain-pulse/guide.html)
 
 ---
 
