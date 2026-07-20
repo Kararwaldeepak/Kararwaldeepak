@@ -87,7 +87,7 @@ An interactive educational simulation explaining how a sequence of two-dimension
 
 The simulator calculates and visualizes the delay-stage scan length, temporal sampling interval, total time window, frequency resolution, Nyquist frequency, number of time-domain and frequency-domain frames, THz pulse width, spectral bandwidth, spatial electric-field distribution, frequency-resolved field maps, spatiotemporal (x)-(t) maps, and animated THz pulse evolution.
 
-<sub>🔗 [Open the repository](https://github.com/kararwaldeepak/Kararwaldeepak-broadband-thz-vector-beams)</sub><br>
+<sub>🔗 [https://github.com/Kararwaldeepak/thz-spatiotemporal-field-explorer]</sub><br>
 <sub>🌐 [https://kararwaldeepak.github.io/thz-spatiotemporal-field-explorer/)</sub>
 
 
