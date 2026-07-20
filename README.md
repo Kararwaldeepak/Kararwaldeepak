@@ -50,7 +50,7 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ## Projects
 
-### 🌀 Interactive Light Polarization Simulator
+### 🌀 Polarization of light
 
 An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal sinusoidal electric-field components.
 
@@ -62,13 +62,22 @@ The simulator displays the polarization ellipse, animated electric-field traject
 
 ---
 
-### ⚡ Understanding a Time-Domain THz Pulse
+### ⚡ Time-Domain THz Pulse
 
 An interactive educational simulation explaining the time-dependent THz electric field, Fourier-amplitude spectrum, spectral phase, pulse duration, chirp, reflections, and measurement noise.
 
 🔗 [Open the THz repository](https://github.com/kararwaldeepak/thz-time-domain-pulse)
 
 🌐 [Run the THz simulation](https://kararwaldeepak.github.io/thz-time-domain-pulse/)
+---
+
+### ⚡ Broadband THz vector beams
+
+An interactive educational simulation explaining the time-dependent THz electric field, Fourier-amplitude spectrum, spectral phase, pulse duration, chirp, reflections, and measurement noise.
+
+🔗 [https://github.com/kararwaldeepak/broadband-thz-vector-beams]
+
+🌐 [https://kararwaldeepak.github.io/broadband-thz-vector-beams/]
 ---
 
 ## 📫 Connect
