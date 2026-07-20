@@ -81,6 +81,18 @@ The simulator displays the beam intensity, polarization-vector distribution, nor
 
 ---
 
+### ⚡ Spatiotemporal THz Electric-Field Explorer
+
+An interactive educational simulation explaining how a sequence of two-dimensional THz electric-field images forms a complete spatiotemporal dataset, (E_x(x,y,t)) and (E_y(x,y,t)), and how it is transformed into frequency-resolved THz field maps.
+
+The simulator calculates and visualizes the delay-stage scan length, temporal sampling interval, total time window, frequency resolution, Nyquist frequency, number of time-domain and frequency-domain frames, THz pulse width, spectral bandwidth, spatial electric-field distribution, frequency-resolved field maps, spatiotemporal (x)-(t) maps, and animated THz pulse evolution.
+
+<sub>🔗 <a href="https://github.com/kararwaldeepak/spatiotemporal-thz-electric-field">Open the repository</a></sub><br> <sub>🌐 <a href="https://kararwaldeepak.github.io/spatiotemporal-thz-electric-field/">Run the live simulation</a></sub>
+
+
+
+
+
 ## 📫 Connect
 
 - 👤 GitHub: [kararwaldeepak](https://github.com/kararwaldeepak)
