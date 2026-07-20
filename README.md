@@ -13,7 +13,7 @@ Welcome to the World of Terahertz (THz) Science
 </h1>
 
 <h3 align="center">
-  <em>Research is my passion</em>
+  <em>Research is my passion (Never gives up, great things takes time!)</em>
 </h3>
 
 <h3 align="center">
