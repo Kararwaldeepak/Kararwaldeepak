@@ -24,7 +24,7 @@ Department of Electrical Engineering<br>
 
 <h3 align="center">
 Joint supervision
-Bordeaux university-Aquitaine Optics and Lasers Centre
+Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers d'Aquitaine).
 </h3>
 
 <p align="center">
