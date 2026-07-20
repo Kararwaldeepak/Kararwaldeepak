@@ -6,13 +6,13 @@ Welcome to the World of Terahertz (THz) Science
 </h1>
 
 <h3 align="center">
-  <em>| Research is my passion |</em>
+  <em>Research is my passion</em>
 </h3>
 
 <h3 align="center">
-PhD student in Terahertz Optics and Photonics<br>
-Department of Electrical Engineering,
-École de technologie supérieure (ÉTS Montréal)
+PhD Student in Terahertz Optics and Photonics<br>
+Department of Electrical Engineering<br>
+École de technologie supérieure — ÉTS Montréal
 </h3>
 
 <p align="center">
@@ -45,11 +45,55 @@ Department of Electrical Engineering,
 
 ## 📰 NEWS
 
-> 🔴 **LIVE — **
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/PUBLISHED%20IN-Applied%20Physics%20Letters-8B0000?style=for-the-badge"
+    alt="Published in Applied Physics Letters">
+</p>
 
-| Date | News |
-|:April 20, 2026:|Spatio-spectral full-Stokes mapping of broadband terahertz pulses|DOI: 10.1063/5.0334055|
-| **July 2026** | **abcd** |
+### 🎉 Featured Publication
+
+<table>
+<tr>
+<td width="180"><strong>Journal</strong></td>
+<td><strong>Applied Physics Letters (APL)</strong></td>
+</tr>
+
+<tr>
+<td><strong>Article</strong></td>
+<td><em>Spatio-spectral full-Stokes mapping of broadband terahertz pulses</em></td>
+</tr>
+
+<tr>
+<td><strong>Publication date</strong></td>
+<td>20 April 2026</td>
+</tr>
+
+<tr>
+<td><strong>DOI</strong></td>
+<td>
+<a href="https://doi.org/10.1063/5.0334055">
+10.1063/5.0334055
+</a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://doi.org/10.1063/5.0334055">
+    <img
+      src="https://img.shields.io/badge/Read-the%20Publication-0066CC?style=for-the-badge"
+      alt="Read the publication">
+  </a>
+</p>
+
+> **Published in Applied Physics Letters:** This work presents the spatio-spectral full-Stokes characterization of broadband terahertz pulses, enabling spatially and spectrally resolved mapping of their complete polarization state.
+
+### 🔴 Latest Updates
+
+| Date | Update |
+|:---:|---|
+| **July 2026** | Development of interactive scientific tools for broadband THz pulse, vector-beam, and spatiotemporal field visualization. |
 
 <p align="right">
   <a href="#top">Back to top ↑</a>
@@ -58,10 +102,6 @@ Department of Electrical Engineering,
 ---
 
 <a id="research"></a>
-
-
----
-
 ## 👨‍🔬 Research Background
 
 My research focuses on broadband THz generation, structured THz vector beams, spatio-spectral polarization analysis of broadband THz pulses, hollow-core circular metallic waveguides, and terahertz time-domain spectroscopy.
