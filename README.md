@@ -150,9 +150,9 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ## Projects
 
-### I. Polarization of Light
+### I. What is Polarization of Light? 
 
-An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal electric-field components.
+Read here, An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal electric-field components.
 
 The simulator displays the polarization ellipse, animated electric-field trajectory, side and top propagation views, component waveforms, Stokes parameters, orientation angle, ellipticity angle, and handedness.
 
@@ -161,7 +161,7 @@ The simulator displays the polarization ellipse, animated electric-field traject
 
 ---
 
-### II. Time-Domain THz Pulse
+### II. Time-domain and Frequency-domain representation of a THz Pulse
 
 An interactive educational simulation explaining the time-dependent THz electric field, Fourier-amplitude spectrum, spectral phase, pulse duration, chirp, reflections, and measurement noise.
 
@@ -170,7 +170,7 @@ An interactive educational simulation explaining the time-dependent THz electric
 
 ---
 
-### III. Broadband THz Vector Beams
+### III. Spectrally-resolved spatially-mapped broadband THz pulses
 
 An interactive simulation explaining radially and azimuthally polarized broadband THz beams and their spatially varying electric-field distributions.
 
