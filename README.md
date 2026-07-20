@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <h1 align="center">
 Welcome to the World of Terahertz (THz) Science
 <small>— KARARWAL Deepak</small>
@@ -24,7 +26,7 @@ Department of Electrical Engineering,
 <p align="center">
   <a href="#news">
     <img
-      src="./assets/live-news.gif"
+      src="./live-news.gif"
       width="180"
       alt="Live Research News">
   </a>
@@ -32,12 +34,31 @@ Department of Electrical Engineering,
 
 <p align="center">
   <a href="#news"><strong>NEWS</strong></a> •
-  <a href="#-research-background"><strong>RESEARCH</strong></a> •
+  <a href="#research"><strong>RESEARCH</strong></a> •
   <a href="#projects"><strong>PROJECTS</strong></a> •
-  <a href="#-connect"><strong>CONNECT</strong></a>
+  <a href="#connect"><strong>CONNECT</strong></a>
 </p>
 
 ---
+
+<a id="news"></a>
+
+## 📰 NEWS
+
+> 🔴 **LIVE — Latest research and project updates**
+
+| Date | News |
+|:---:|---|
+| **July 2026** | **abcd** |
+
+<p align="right">
+  <a href="#top">Back to top ↑</a>
+</p>
+
+---
+
+<a id="research"></a>
+
 
 ---
 
