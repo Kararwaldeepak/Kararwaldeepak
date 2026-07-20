@@ -1,6 +1,6 @@
 can you give it a different look: first i wan tto visulize here itself: <h1 align="center">Welcome to the World of Terahertz (THz) Science <small>— KARARWAL Deepak</small></h1>
 <h3 align="center">
-Research is my passion.
+|Research is my passion|
 </h3>
 
 <h3 align="center">
