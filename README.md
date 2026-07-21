@@ -187,13 +187,14 @@ Do you know THz-time domain spectroscopy gives you the real time electric field 
 Using Electro-optic sampling of THz waves you can see the real-time electric field of light!
 Thanks to the property of Fourier transform and time-domain sampling.
 
+Don't forget to see the switching dymanics of THz electric field polarity demonstrated by the Time-Dimain Spatial Frame.
+This is the most beautiful thing, where you visually see the +ve and -ve polarity of THz electric field that characterizes a spatially structured broadband THz vector field either by radial or by azimuthal symmetry.
+
 Here is an interactive educational platform that explains how a sequence of two-dimensional THz electric-field images forms a complete spatiotemporal dataset, (E_x(x,y,t)) and (E_y(x,y,t)), and how it is transformed into frequency-resolved THz field maps.
 
 The simulator calculates and visualizes the delay-stage scan length, temporal sampling interval, total time window, frequency resolution, Nyquist frequency, number of time-domain and frequency-domain frames, THz pulse width, spectral bandwidth, spatial electric-field distribution, frequency-resolved field maps, spatiotemporal (x)-(t) maps, and animated THz pulse evolution.
 
 A THz delay scan records $N$ spatial electric-field images separated by a stage step $\Delta L$. The temporal sampling interval is $\Delta t=m\Delta L/c$, where $m=2$ for a retroreflector. The scan length and time window are $L_{\mathrm{scan}}=(N-1)\Delta L$ and $T_{\mathrm{span}}=(N-1)\Delta t$. The FFT frequency resolution and Nyquist frequency are $\Delta f=1/(N\Delta t)$ and $f_{\mathrm{Nyquist}}=1/(2\Delta t)$, while the number of non-negative frequency frames is $N_f=\lfloor N/2\rfloor+1$. The pulse duration is determined from $\tau_{\mathrm{FWHM}}=t_2-t_1$, and the spectral bandwidth is $B=f_{\mathrm{high}}-f_{\mathrm{low}}$.
-
-Don't forget to see the switching dymanics of THz electric field polarity demonstrated by the field map.
 
 <sub>🔗 [https://github.com/Kararwaldeepak/thz-spatiotemporal-field-explorer]</sub><br>
 <sub>🌐 [https://kararwaldeepak.github.io/thz-spatiotemporal-field-explorer/)</sub>
