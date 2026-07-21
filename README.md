@@ -187,7 +187,7 @@ Do you know THz-time domain spectroscopy gives you the real time electric field 
 Using Electro-optic sampling of THz waves you can see the real-time electric field of light!
 Thanks to the property of Fourier transform and time-domain sampling.
 
-Don't forget to see the switching dymanics of THz electric field polarity demonstrated by the Time-Dimain Spatial Frame.
+Don't forget to see the switching dymanics of THz electric field polarity demonstrated by the Time-Domain Spatial Frame.
 This is the most beautiful thing, where you visually see the +ve and -ve polarity of THz electric field that characterizes a spatially structured broadband THz vector field either by radial or by azimuthal symmetry.
 
 Here is an interactive educational platform that explains how a sequence of two-dimensional THz electric-field images forms a complete spatiotemporal dataset, (E_x(x,y,t)) and (E_y(x,y,t)), and how it is transformed into frequency-resolved THz field maps.
