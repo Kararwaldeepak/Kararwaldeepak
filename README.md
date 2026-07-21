@@ -193,11 +193,11 @@ The simulator calculates and visualizes the delay-stage scan length, temporal sa
 
 A THz delay scan records $N$ spatial electric-field images separated by a stage step $\Delta L$. The temporal sampling interval is $\Delta t=m\Delta L/c$, where $m=2$ for a retroreflector. The scan length and time window are $L_{\mathrm{scan}}=(N-1)\Delta L$ and $T_{\mathrm{span}}=(N-1)\Delta t$. The FFT frequency resolution and Nyquist frequency are $\Delta f=1/(N\Delta t)$ and $f_{\mathrm{Nyquist}}=1/(2\Delta t)$, while the number of non-negative frequency frames is $N_f=\lfloor N/2\rfloor+1$. The pulse duration is determined from $\tau_{\mathrm{FWHM}}=t_2-t_1$, and the spectral bandwidth is $B=f_{\mathrm{high}}-f_{\mathrm{low}}$.
 
-
+Don't forget to see the switching dymanics of THz electric field polarity demonstrated by the field map.
 
 <sub>🔗 [https://github.com/Kararwaldeepak/thz-spatiotemporal-field-explorer]</sub><br>
 <sub>🌐 [https://kararwaldeepak.github.io/thz-spatiotemporal-field-explorer/)</sub>
-<sub>🌐 [file:///C:/Users/DEEPAK%20KARARWAL/Downloads/repo/spatiotemporal-thz-electric-field/index.html]
+
 ---
 
 
