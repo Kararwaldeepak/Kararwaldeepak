@@ -114,9 +114,9 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 
 ### 🕰️ Updates
 
-* **July 2026:** Generation and detection of broadband THz vector beams from a spintronic emitter *(To be communicated soon).*
-* **October 2026:** Coupling properties of broadband terahertz (THz) pulses in hollow core circular waveguides *(To be communicated soon).*
-* **January 2027:** Broadband THz vortex-beam generation from a spintronic emitter *(Tentative).*
+* **Aug 2026:** Generation and detection of broadband THz vector beams from a spintronic emitter *(To be communicated soon).*
+* **Oct 2026:** Coupling properties of broadband terahertz (THz) pulses in hollow core circular waveguides *(To be communicated soon).*
+* **Jan 2027:** Broadband THz vortex-beam generation from a spintronic emitter *(Tentative).*
 
 <h3>
   <img src="https://img.shields.io/badge/RESEARCH-%20HIGHLIGHTS-orange?style=flat-square">
