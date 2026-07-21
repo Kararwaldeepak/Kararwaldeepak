@@ -65,7 +65,10 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
     alt="Published in Applied Physics Letters">
 </p>
 
-### 🎉 Featured Publication
+<h3>
+  <img src="https://img.icons8.com/color/48/trophy.png" width="28" height="28">
+  Featured Publication
+</h3>
 
 <table>
 <tr>
