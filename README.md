@@ -13,7 +13,7 @@ Welcome to the World of Terahertz (THz) Science
 </h1>
 
 <h3 align="center">
-  <em>Never gives up, because great things takes time!</em>
+  <em>Science is not just about finding answers — it’s about asking better questions that shape the future!</em>
 </h3>
 
 <h3 align="center">
