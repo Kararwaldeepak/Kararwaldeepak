@@ -14,6 +14,7 @@ Welcome to the World of Terahertz (THz) Science
 
 <h3 align="center">
   <em>Science is not just about finding answers — it’s about asking better questions that shape the future!</em>
+  </em>Be patient with the noise; your signal is still finding its way to you</em>
 </h3>
 
 <h3 align="center">
