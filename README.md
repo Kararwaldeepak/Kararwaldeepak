@@ -109,7 +109,9 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 * **October 2026:** Coupling properties of broadband terahertz (THz) pulses in hollow core circular waveguides *(To be communicated soon).*
 * **January 2027:** Broadband THz vortex-beam generation from a spintronic emitter *(Tentative).*
 
-### 🔴 Publications and Research Section
+<h3>
+  <img src="https://img.shields.io/badge/RESEARCH-%20HIGHLIGHTS-orange?style=flat-square">
+</h3>
 
 * **April 2026 — Journal Article:** *Spatio-spectral full-Stokes mapping of broadband terahertz pulses* — Published in **Applied Physics Letters**, **128**, 161105.
   **DOI:** [`10.1063/5.0334055`](https://doi.org/10.1063/5.0334055)
@@ -122,10 +124,7 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 
 * **November 2023 — Patent:** *System for Detection of a Plane of Polarization of Light and Method Thereof* — A liquid-crystal-based system for real-time detection of the plane of polarization [First examination report (FER) submitted].
 
-<p align="left">
-  <a href="https://www.researchgate.net/profile/Deepak-Kararwal-2">
-    <img src="https://img.shields.io/badge/View%20all%20publications-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
-  </a>
+
 </p>
 
 
