@@ -50,7 +50,7 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
   <a href="#news"><strong>NEWS</strong></a> •
   <a href="#research"><strong>RESEARCH</strong></a> •
   <a href="#projects"><strong>PROJECTS</strong></a> •
-  <a href="#terahertz-optics--news--research"><strong>Terahertz Optics — News &amp; Research</strong></a> •
+  <a href="#terahertz-optics-news-and-research"><strong>Terahertz Optics News and Research</strong></a> •
   <a href="#connect"><strong>CONNECT</strong></a> 
 </p>
 
