@@ -12,11 +12,12 @@ Welcome to the World of Terahertz (THz) Science
 <small>— KARARWAL Deepak</small>
 </h1>
 
-<h3 align="center">
-  <em style="color: #FFD700;">
-    Science is not just about finding answers — it’s about asking better questions that shape the future!
-  </em>
-</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Georgia&amp;size=18&amp;duration=4000&amp;pause=1000&amp;color=D4AF37&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Science+is+not+just+about+finding+answers+%E2%80%94+it%E2%80%99s+about+asking+better+questions+that+shape+the+future%21"
+    alt="Inspirational scientific quote"
+  />
+</p>
 
 
 <h3 align="center">
