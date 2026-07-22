@@ -13,8 +13,9 @@ Welcome to the World of Terahertz (THz) Science
 </h1>
 
 <h3 align="center">
-  <em>Science is not just about finding answers — it’s about asking better questions that shape the future!</em>
- 
+  <em style="color: #FFD700;">
+    Science is not just about finding answers — it’s about asking better questions that shape the future!
+  </em>
 </h3>
 
 
