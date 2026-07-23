@@ -3,7 +3,9 @@
     src="https://img.shields.io/badge/ResearchGate-Deepak%20Kararwal-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"
     alt="ResearchGate Profile">
 </a>
-
+<p align="center">
+Exploring the terahertz science through experiments, simulations, and scientific tools. 
+</p>
 
 <a id="top"></a>
 
@@ -56,6 +58,8 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 <p align="center">
 “Science does not wait for the future—it discovers, designs, and builds it.”
 </p>
+
+
 
 ---
 
