@@ -8,7 +8,7 @@
 <a id="top"></a>
 
 <h1 align="center">
-Welcome to the World of Terahertz (THz) Science
+Welcome to the World of Terahertz Science
 <small>— KARARWAL Deepak</small>
 </h1>
 
