@@ -56,7 +56,7 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 
 <a id="news"></a>
 
-## 📰 MY RECENT WORK
+## 📰 RECENT DEMONSTRATIONS (20 April, 2026)
 
 <p align="center">
   <img
@@ -110,7 +110,7 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 
 > **Abstract:** We report a method for full-Stokes spatio-spectral characterization of broadband terahertz pulses from 0.5 to 2.5 THz. By combining two-dimensional electro-optic sampling with frequency-resolved Stokes analysis, we retrieve the complete polarization state of a terahertz field at each frequency component and at every point across the beam profile......
 
-### 🕰️ Updates
+### 🛡️ Hold the Line 
 
 * **Oct 2026:** Generation and detection of broadband THz vector beams from a spintronic emitter *(To be communicated soon).*
 * **Sept 2026:** Coupling properties of broadband terahertz (THz) pulses in hollow core circular waveguides *(To be communicated soon).*
