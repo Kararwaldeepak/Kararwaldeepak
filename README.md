@@ -4,7 +4,7 @@
     alt="ResearchGate Profile">
 </a>
 <p align="center">
-The page is finally completed and deployed via repositories. Enjoy the terahertz interactive simulations, theory, articles, and much more.
+The page is finally completed and deployed via repositories. Enjoy the terahertz interactive simulations (active hyperlinks at bottom of page), theory, articles, and much more.
 </p>
 
 <p align="center">
