@@ -255,7 +255,7 @@ The simulator displays the beam intensity, polarization-vector distribution, nor
 
 ---
 
-### IV. Spatiotemporal evolution of THz Electric-Field
+### IV. Spatio-temporal evolution of THz Electric-Field
 
 Do you know THz-time domain spectroscopy gives you the real time electric field of light?
 Using Electro-optic sampling of THz waves you can see the real-time electric field of light!
