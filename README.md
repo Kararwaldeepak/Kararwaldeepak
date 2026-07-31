@@ -214,7 +214,17 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ## Projects
 
-### I. An interactive platform to study polarization of Light. 
+### I. An interactive terahertz circular hollow core waveguide mode simulator~
+
+Read here, An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal electric-field components.
+
+The simulator displays the polarization ellipse, animated electric-field trajectory, side and top propagation views, component waveforms, Stokes parameters, orientation angle, ellipticity angle, and handedness.
+
+<sub>🔗 [Open the repository](https://github.com/kararwaldeepak/light-polarization-simulator)</sub><br>
+<sub>🌐 [https://kararwaldeepak.github.io/thz-copper-waveguide-live-simulator/)</sub>
+
+---
+### II. An interactive platform to study polarization of Light. 
 
 Read here, An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal electric-field components.
 
