@@ -214,7 +214,7 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ## Projects
 
-### I. An interactive terahertz circular hollow core waveguide mode simulator~
+### I. An interactive terahertz circular hollow-core waveguide mode simulator!
 
 Read here, An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal electric-field components.
 
