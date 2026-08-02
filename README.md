@@ -15,7 +15,7 @@ Exploring the terahertz science through experiments, simulations, and scientific
 
 <h1 align="center">
   
-Welcome to the World of Terahertz Science
+Welcome to the regime of terahertz Science
 <small>— KARARWAL Deepak</small>
 </h1>
 
@@ -60,7 +60,7 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 
 
 <p align="center">
-“Science does not wait for the future—it discovers, designs, and builds it.”
+“Be a product of your decisions, not of circumstances!”
 </p>
 
 
