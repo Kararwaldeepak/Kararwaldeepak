@@ -104,6 +104,14 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 </tr>
 
 <tr>
+<td><strong>Authors</strong></td>
+<td><em>D. Kararwal, T. Guillaume, J. Degert, E. Freysz, F. Blanchard, and E. Abraham</em></td>
+</tr>
+
+
+
+
+<tr>
 <td><strong>Publication date</strong></td>
 <td>20 April, 2026</td>
 </tr>
