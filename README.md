@@ -15,7 +15,7 @@ Exploring the terahertz science through experiments, simulations, and scientific
 
 <h1 align="center">
   
-Welcome to the of terahertz regime!
+Welcome to the world beyond conventional optics—the terahertz regime!
 <small> </small>
 </h1>
 
