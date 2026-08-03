@@ -15,8 +15,8 @@ Exploring the terahertz science through experiments, simulations, and scientific
 
 <h1 align="center">
   
-Welcome to the regime of terahertz Science
-<small>— </small>
+Welcome to the of terahertz regime!
+<small> </small>
 </h1>
 
 <p align="center">
