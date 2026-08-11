@@ -224,9 +224,12 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ### I. An interactive terahertz circular hollow-core waveguide mode simulator!
 
-Read here, An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal electric-field components.
+### Introduction
 
-The simulator displays the polarization ellipse, animated electric-field trajectory, side and top propagation views, component waveforms, Stokes parameters, orientation angle, ellipticity angle, and handedness.
+Hollow-core circular waveguides provide an effective platform for guiding broadband terahertz radiation over distances beyond the free-space Rayleigh range. However, their transmission is governed by frequency-dependent coupling, modal cutoff, conductor loss, dispersion, and interference between simultaneously excited modes. 
+
+This interactive simulator examines Gaussian THz-beam coupling into a z-cm-long copper waveguide with a 2T-mm-inner-diameter using a f-mm focal-length lens. It calculates the propagation of the fundamental TE11 mode and the higher-order TM11 mode over the 0.1–2 THz range. Their individual coupling efficiencies, propagation constants, attenuation, group delays, relative phase, and coherent interference are evaluated in real time. The simulator therefore provides an intuitive framework for understanding multimode propagation and its influence on the spatial and spectral response of broadband THz circular waveguides.
+
 
 <sub>🔗 [Open the repository](https://github.com/kararwaldeepak/light-polarization-simulator)</sub><br>
 <sub>🌐 [https://kararwaldeepak.github.io/thz-copper-waveguide-live-simulator/)</sub>
