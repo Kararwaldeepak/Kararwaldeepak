@@ -19,12 +19,6 @@ Welcome to the world beyond conventional optics—the terahertz regime!
 <small> </small>
 </h1>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=600&amp;size=19&amp;duration=6000&amp;pause=1000&amp;color=D4AF37&amp;center=true&amp;vCenter=true&amp;width=1250&amp;lines=Science+is+not+just+about+finding+answers+%E2%80%94+it%E2%80%99s+about+asking+better+questions+that+shape+the+future%21"
-    alt="Inspirational scientific quote"
-  />
-</p>
 
 
 <h3 align="center">
