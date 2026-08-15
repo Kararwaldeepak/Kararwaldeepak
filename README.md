@@ -67,7 +67,7 @@ NOTE: “The most valuable math that you can learn today, is how to calculate th
 
 
 
-## 📰 RECENT DEMONSTRATIONS (20 April, 2026)
+## ➣ RECENT DEMONSTRATIONS (20 April, 2026)
 
 <p align="center">
   <img
@@ -131,24 +131,24 @@ NOTE: “The most valuable math that you can learn today, is how to calculate th
 
 ### 🛡️ Hold the Line 
 
-* **Oct 2026:** Generation and detection of broadband THz vector beams from a spintronic emitter *(To be communicated soon).*
-* **Sept 2026:** Coupling properties of broadband terahertz (THz) pulses in hollow core circular waveguides *(To be communicated soon).*
-* **Jan 2027:** Broadband THz vortex-beam generation from a spintronic emitter *(Tentative).*
+* ➣ **Oct 2026:** Generation and detection of broadband THz vector beams from a spintronic emitter *(To be communicated soon).*
+* ➣ **Sept 2026:** Coupling properties of broadband terahertz (THz) pulses in hollow core circular waveguides *(To be communicated soon).*
+* ➣ **Jan 2027:** Broadband THz vortex-beam generation from a spintronic emitter *(Tentative).*
 
 <h3>
   <img src="https://img.shields.io/badge/RESEARCH-%20HIGHLIGHTS-orange?style=flat-square">
 </h3>
 
-* **April 2026 — Journal Article:** *Spatio-spectral full-Stokes mapping of broadband terahertz pulses* — **Applied Physics Letters**, **128**, 161105.
+* ➣ **April 2026 — Journal Article:** *Spatio-spectral full-Stokes mapping of broadband terahertz pulses* — **Applied Physics Letters**, **128**, 161105.
   **DOI:** [`10.1063/5.0334055`](https://doi.org/10.1063/5.0334055)
 
-* **May 2025 — Proceedings:** *Coupling Properties of Broadband Terahertz Pulses in a Circular Hollow-Core Waveguide* — proceedings **2025 Photonics North**.
+* ➣ **May 2025 — Proceedings:** *Coupling Properties of Broadband Terahertz Pulses in a Circular Hollow-Core Waveguide* — proceedings **2025 Photonics North**.
   **DOI:** [`10.1109/PN66844.2025.11097150`](https://doi.org/10.1109/PN66844.2025.11097150)
 
-* **April 2025 — Journal Article:** *A continuous plane of polarization rotator and detector based on the liquid crystal Θ-cell* —  **Optics & Laser Technology**, **182**, 112138.
+* ➣ **April 2025 — Journal Article:** *A continuous plane of polarization rotator and detector based on the liquid crystal Θ-cell* —  **Optics & Laser Technology**, **182**, 112138.
   **DOI:** [`10.1016/j.optlastec.2024.112138`](https://doi.org/10.1016/j.optlastec.2024.112138)
 
-* **November 2023 — Patent:** *System for Detection of a Plane of Polarization of Light and Method Thereof* — A liquid-crystal-based system for real-time detection of the plane of polarization [First examination report (FER) submitted].
+* ➣ **November 2023 — Patent:** *System for Detection of a Plane of Polarization of Light and Method Thereof* — A liquid-crystal-based system for real-time detection of the plane of polarization [First examination report (FER) submitted].
 
 
 </p>
@@ -161,7 +161,7 @@ NOTE: “The most valuable math that you can learn today, is how to calculate th
 ---
 
 <h3 id="terahertz-optics-news-research">
-  📰 Terahertz Optics — News &amp; Research
+  ➣ Terahertz Optics — News &amp; Research
 </h3>
 
 <p>
@@ -180,7 +180,7 @@ NOTE: “The most valuable math that you can learn today, is how to calculate th
 
 
 <a id="research"></a>
-## 👨‍🔬 Research Background
+## ➣ Research Background
 
 My research focuses on broadband THz generation, structured THz vector beams, spatio-spectral polarization analysis of broadband THz pulses, hollow-core circular metallic waveguides, and terahertz time-domain spectroscopy.
 
@@ -188,19 +188,19 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ---
 
-## 🔬 Research areas
+## ➣ Research areas
 
-- ⚡ Broadband terahertz generation and detection.
-- 🌊 Radially and azimuthally polarized THz vector beams.
-- 🧭 Stokes polarimetry and spectrally-resolved spatial-polarization mapping.
-- 📡 Hollow-core metallic THz waveguides.
+- ➣ Broadband terahertz generation and detection.
+- ➣ Radially and azimuthally polarized THz vector beams.
+- ➣ Stokes polarimetry and spectrally-resolved spatial-polarization mapping.
+- ➣ Hollow-core metallic THz waveguides.
 - 📈 THz time-domain and frequency-domain analysis.
 - 🧲 Magnetic-field tailoring of broadband THz vector fields using spintronic THz emitters.
 - 💻 Python-based simulation and scientific data analysis.
-- 🌊 Optics of birefringent media (Liquid crystals, uniaxial crystals etc.).
+- ➣ Optics of birefringent media (Liquid crystals, uniaxial crystals etc.).
 ---
 
-## 🛠️ Research Tools
+## ➢ Research Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Scientific%20Computing-blue" alt="Python">
@@ -213,23 +213,9 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ---
 
-## Projects
+## ➢ Projects
 
-### I. An interactive terahertz circular hollow-core waveguide mode simulator!
-
-### Introduction
-
-Hollow-core circular waveguides provide an effective platform for guiding broadband terahertz radiation over distances beyond the free-space Rayleigh range. However, their transmission is governed by frequency-dependent coupling, modal cutoff, conductor loss, dispersion, and interference between simultaneously excited modes. 
-
-This interactive simulator examines Gaussian THz-beam coupling into a z-cm-long copper waveguide with a 2T-mm-inner-diameter using a f-mm focal-length lens. It calculates the propagation of the fundamental TE11 mode and the higher-order TM11 mode over the 0.1–2 THz range. Their individual coupling efficiencies, propagation constants, attenuation, group delays, relative phase, and coherent interference are evaluated in real time. The simulator therefore provides an intuitive framework for understanding multimode propagation and its influence on the spatial and spectral response of broadband THz circular waveguides.
-
-
-<sub>🔗 [Open the repository](https://github.com/kararwaldeepak/light-polarization-simulator)</sub><br>
-<sub>🌐 [https://kararwaldeepak.github.io/thz-copper-waveguide-live-simulator/)</sub>
-
----
-
-### II. Spatio-temporal evolution of THz Electric-Field
+### ◇ I. Spatio-temporal evolution of THz Electric-Field.
 
 Do you know THz-time domain spectroscopy gives you the real time electric field of light?
 Using Electro-optic sampling of THz waves you can see the real-time electric field of light!
@@ -249,19 +235,16 @@ A THz delay scan records $N$ spatial electric-field images separated by a stage 
 
 ---
 
-### III. An interactive platform to study polarization of Light. 
+### ◇ II. An interactive platform to study polarization of Light. 
 
-Read here, An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal electric-field components.
-
-The simulator displays the polarization ellipse, animated electric-field trajectory, side and top propagation views, component waveforms, Stokes parameters, orientation angle, ellipticity angle, and handedness.
+Read here, An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal electric-field components. The simulator displays the polarization ellipse, animated electric-field trajectory, side and top propagation views, component waveforms, Stokes parameters, orientation angle, ellipticity angle, and handedness.
 
 <sub>🔗 [Open the repository](https://github.com/kararwaldeepak/light-polarization-simulator)</sub><br>
 <sub>🌐 [Run the live simulation](https://kararwaldeepak.github.io/light-polarization-simulator/)</sub>
 
 ---
 
-### IV. Time-domain and Frequency-domain representation of a THz Pulse
-
+### ◇ III. Time-domain and Frequency-domain representation of a THz Pulse
 An interactive educational simulation explaining the time-dependent THz electric field, Fourier-amplitude spectrum, spectral phase, pulse duration, chirp, reflections, and measurement noise.
 
 <sub>🔗 [Open the repository](https://github.com/kararwaldeepak/thz-time-domain-pulse)</sub><br>
@@ -269,26 +252,31 @@ An interactive educational simulation explaining the time-dependent THz electric
 
 ---
 
-### V. Spectrally-resolved spatially-mapped broadband THz pulses
+### ◇ IV. Spectrally-resolved spatially-mapped broadband THz pulses.
 
-An interactive simulation explaining radially and azimuthally polarized broadband THz beams and their spatially varying electric-field distributions.
-
-The simulator displays the beam intensity, polarization-vector distribution, normalized Stokes maps \(s_1\), \(s_2\), and \(s_3\), polarization azimuth, local polarization ellipse, time-domain electric-field components, and THz spectrum.
-
+An interactive simulation explaining radially and azimuthally polarized broadband THz beams and their spatially varying electric-field distributions. The simulator displays the beam intensity, polarization-vector distribution, normalized Stokes maps \(s_1\), \(s_2\), and \(s_3\), polarization azimuth, local polarization ellipse, time-domain electric-field components, and THz spectrum.
 <sub>🔗 [Open the repository](https://github.com/kararwaldeepak/Kararwaldeepak-broadband-thz-vector-beams)</sub><br>
 <sub>🌐 [Run the live simulation](https://kararwaldeepak.github.io/Kararwaldeepak-broadband-thz-vector-beams/)</sub>
 
 ---
 
+### ◇ V. An interactive terahertz circular hollow-core waveguide mode simulator.
+Hollow-core circular waveguides provide an effective platform for guiding broadband terahertz radiation over distances beyond the free-space Rayleigh range. However, their transmission is governed by frequency-dependent coupling, modal cutoff, conductor loss, dispersion, and interference between simultaneously excited modes. 
 
+This interactive simulator examines Gaussian THz-beam coupling into a z-cm-long copper waveguide with a 2T-mm-inner-diameter using a f-mm focal-length lens. It calculates the propagation of the fundamental TE11 mode and the higher-order TM11 mode over the 0.1–2 THz range. Their individual coupling efficiencies, propagation constants, attenuation, group delays, relative phase, and coherent interference are evaluated in real time. The simulator therefore provides an intuitive framework for understanding multimode propagation and its influence on the spatial and spectral response of broadband THz circular waveguides.
 
+<sub>🔗 [Open the repository](https://github.com/kararwaldeepak/light-polarization-simulator)</sub><br>
+<sub>🌐 [https://kararwaldeepak.github.io/thz-copper-waveguide-live-simulator/)</sub>
+
+---
 
 ## 📫 Connect
 
-- 👤 GitHub: [kararwaldeepak](https://github.com/kararwaldeepak)
-- 🏫 Department of Electrical Engineering, École de technologie supérieure (ÉTS Montréal)
-- 🔬 Research area: Terahertz optics, photonics, structured electromagnetic fields.
-- Spatio-temporal topological shaping of THz light.
+- ➤ GitHub: [kararwaldeepak](https://github.com/kararwaldeepak)
+- ➤ Department of Electrical Engineering, École de technologie supérieure (ÉTS Montréal)
+- ➤ Research area: Terahertz optics, photonics, structured electromagnetic fields.
+- ➤ Spatio-temporal modelling of THz light.
+- ➤ Email: deepak.deepak.1@ens.etsmtl.ca
 ---
 
 <p align="center">
