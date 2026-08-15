@@ -33,10 +33,10 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 </h3>
 
 <p align="center">
-  <strong>THz Sources</strong> •
+  <strong>Terahertz Sources</strong> •
   <strong>Structured Vector Beams</strong> •
   <strong>Polarization Imaging</strong> •
-  <strong>THz Waveguides</strong> •
+  <strong>Terahertz Waveguides</strong> •
   <strong>Scientific Computing</strong>
 </p>
 
@@ -54,7 +54,7 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 
 
 <p align="center">
-NOTE: “The most valuable math that you can learn today, is how to calculate the future cost of your current decisions! So, always be a product of your decisions, not of circumstances!”
+➲ NOTE: “The most valuable math that you can learn today, is how to calculate the future cost of your current decisions! So, always be a product of your decisions, not of circumstances!”
 </p>
 
 
@@ -230,43 +230,35 @@ The simulator calculates and visualizes the delay-stage scan length, temporal sa
 
 A THz delay scan records $N$ spatial electric-field images separated by a stage step $\Delta L$. The temporal sampling interval is $\Delta t=m\Delta L/c$, where $m=2$ for a retroreflector. The scan length and time window are $L_{\mathrm{scan}}=(N-1)\Delta L$ and $T_{\mathrm{span}}=(N-1)\Delta t$. The FFT frequency resolution and Nyquist frequency are $\Delta f=1/(N\Delta t)$ and $f_{\mathrm{Nyquist}}=1/(2\Delta t)$, while the number of non-negative frequency frames is $N_f=\lfloor N/2\rfloor+1$. The pulse duration is determined from $\tau_{\mathrm{FWHM}}=t_2-t_1$, and the spectral bandwidth is $B=f_{\mathrm{high}}-f_{\mathrm{low}}$.
 
-<sub>🔗 [https://github.com/Kararwaldeepak/thz-spatiotemporal-field-explorer]</sub><br>
-<sub>🌐 [https://kararwaldeepak.github.io/thz-spatiotemporal-field-explorer/)</sub>
-
----
+<sub>➢ [https://github.com/Kararwaldeepak/thz-spatiotemporal-field-explorer]</sub><br>
+<sub>➢ [https://kararwaldeepak.github.io/thz-spatiotemporal-field-explorer/)</sub>
 
 ### ◇ II. An interactive platform to study polarization of Light. 
 
 Read here, An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal electric-field components. The simulator displays the polarization ellipse, animated electric-field trajectory, side and top propagation views, component waveforms, Stokes parameters, orientation angle, ellipticity angle, and handedness.
 
-<sub>🔗 [Open the repository](https://github.com/kararwaldeepak/light-polarization-simulator)</sub><br>
-<sub>🌐 [Run the live simulation](https://kararwaldeepak.github.io/light-polarization-simulator/)</sub>
-
----
+<sub>➢ [Open the repository](https://github.com/kararwaldeepak/light-polarization-simulator)</sub><br>
+<sub>➢ [Run the live simulation](https://kararwaldeepak.github.io/light-polarization-simulator/)</sub>
 
 ### ◇ III. Time-domain and Frequency-domain representation of a THz Pulse
 An interactive educational simulation explaining the time-dependent THz electric field, Fourier-amplitude spectrum, spectral phase, pulse duration, chirp, reflections, and measurement noise.
 
-<sub>🔗 [Open the repository](https://github.com/kararwaldeepak/thz-time-domain-pulse)</sub><br>
-<sub>🌐 [Run the live simulation](https://kararwaldeepak.github.io/thz-time-domain-pulse/)</sub>
-
----
+<sub>➢ [Open the repository](https://github.com/kararwaldeepak/thz-time-domain-pulse)</sub><br>
+<sub>➢ [Run the live simulation](https://kararwaldeepak.github.io/thz-time-domain-pulse/)</sub>
 
 ### ◇ IV. Spectrally-resolved spatially-mapped broadband THz pulses.
 
 An interactive simulation explaining radially and azimuthally polarized broadband THz beams and their spatially varying electric-field distributions. The simulator displays the beam intensity, polarization-vector distribution, normalized Stokes maps \(s_1\), \(s_2\), and \(s_3\), polarization azimuth, local polarization ellipse, time-domain electric-field components, and THz spectrum.
-<sub>🔗 [Open the repository](https://github.com/kararwaldeepak/Kararwaldeepak-broadband-thz-vector-beams)</sub><br>
-<sub>🌐 [Run the live simulation](https://kararwaldeepak.github.io/Kararwaldeepak-broadband-thz-vector-beams/)</sub>
-
----
+<sub>➢ [Open the repository](https://github.com/kararwaldeepak/Kararwaldeepak-broadband-thz-vector-beams)</sub><br>
+<sub>➢ [Run the live simulation](https://kararwaldeepak.github.io/Kararwaldeepak-broadband-thz-vector-beams/)</sub>
 
 ### ◇ V. An interactive terahertz circular hollow-core waveguide mode simulator.
 Hollow-core circular waveguides provide an effective platform for guiding broadband terahertz radiation over distances beyond the free-space Rayleigh range. However, their transmission is governed by frequency-dependent coupling, modal cutoff, conductor loss, dispersion, and interference between simultaneously excited modes. 
 
 This interactive simulator examines Gaussian THz-beam coupling into a z-cm-long copper waveguide with a 2T-mm-inner-diameter using a f-mm focal-length lens. It calculates the propagation of the fundamental TE11 mode and the higher-order TM11 mode over the 0.1–2 THz range. Their individual coupling efficiencies, propagation constants, attenuation, group delays, relative phase, and coherent interference are evaluated in real time. The simulator therefore provides an intuitive framework for understanding multimode propagation and its influence on the spatial and spectral response of broadband THz circular waveguides.
 
-<sub>🔗 [Open the repository](https://github.com/kararwaldeepak/light-polarization-simulator)</sub><br>
-<sub>🌐 [https://kararwaldeepak.github.io/thz-copper-waveguide-live-simulator/)</sub>
+<sub>➢ [Open the repository](https://github.com/kararwaldeepak/light-polarization-simulator)</sub><br>
+<sub>➢ [https://kararwaldeepak.github.io/thz-copper-waveguide-live-simulator/)</sub>
 
 ---
 
