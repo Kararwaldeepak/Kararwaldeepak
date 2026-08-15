@@ -54,7 +54,7 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 
 
 <p align="center">
-➲ “The most powerful math that you can learn today, is how to calculate the future cost of your current decisions!”
+➲ “The most valuable mathematics that you can learn today, is — how to calculate the future cost of your current decisions!”
 </p>
 
 
