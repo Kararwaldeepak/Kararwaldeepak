@@ -125,8 +125,6 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
   </a>
 </p>
 
-##
-
 ## 🛡️ Hold the Line 
 
 * ➣ **Oct 2026:** Generation and detection of broadband THz vector beams from a spintronic emitter *(To be communicated soon).*
