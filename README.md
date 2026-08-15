@@ -143,7 +143,7 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 * **April 2026 — Journal Article:** *Spatio-spectral full-Stokes mapping of broadband terahertz pulses* — **Applied Physics Letters**, **128**, 161105.
   **DOI:** [`10.1063/5.0334055`](https://doi.org/10.1063/5.0334055)
 
-* **May 2025 — Conference Paper:** *Coupling Properties of Broadband Terahertz Pulses in a Circular Hollow-Core Waveguide* — proceedings **2025 Photonics North**.
+* **May 2025 — Proceedings:** *Coupling Properties of Broadband Terahertz Pulses in a Circular Hollow-Core Waveguide* — proceedings **2025 Photonics North**.
   **DOI:** [`10.1109/PN66844.2025.11097150`](https://doi.org/10.1109/PN66844.2025.11097150)
 
 * **April 2025 — Journal Article:** *A continuous plane of polarization rotator and detector based on the liquid crystal Θ-cell* —  **Optics & Laser Technology**, **182**, 112138.
