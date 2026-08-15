@@ -4,7 +4,7 @@
     alt="ResearchGate Profile">
 </a>
 <p align="center">
-This page is still under process and deployed via repositories. Enjoy the terahertz interactive simulations (project hyperlinks), theory, articles, and much more. To all repositories for interactive terahertz simulation - Access is granted! 
+This page is still under process and deployed via repositories. Enjoy the terahertz interactive simulations (project hyperlinks), theory, articles, and much more. To all repositories for interactive terahertz simulation — Access is granted! 
 </p>
 
 <p align="center">
@@ -19,8 +19,6 @@ Welcome to the world beyond conventional optics—the terahertz regime!
 <small> </small>
 </h1>
 
-
-
 <h3 align="center">
 PhD Student (Spatio-temporal shaping of terahertz light) at <br>
 Department of Electrical Engineering<br>
@@ -29,7 +27,7 @@ Department of Electrical Engineering<br>
 
 <h3 align="center">
 joint supervision
-Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers d'Aquitaine)(Contract: June 2025-present).
+Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lasers d'Aquitaine)(Contract (full-time): June 2025-present).
 </h3>
 
 <p align="center">
