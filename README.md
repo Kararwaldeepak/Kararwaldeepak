@@ -54,9 +54,8 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 
 
 <p align="center">
-“Be a product of your decisions, not of circumstances!”
+NOTE: “The most valuable math that you can learn today, is how to calculate the future cost of your current decisions! So, always be a product of your decisions, not of circumstances!”
 </p>
-
 
 
 ---
