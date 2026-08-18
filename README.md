@@ -8,7 +8,7 @@ This page is still under process and deployed via repositories. Enjoy the terahe
 </p>
 
 <p align="center">
-Exploring the terahertz science through experiments, simulations, and scientific tools. 
+Exploring the terahertz light through experiments, simulations, and scientific tools. 
 </p>
 
 <a id="top"></a>
@@ -269,5 +269,5 @@ This interactive simulator examines Gaussian THz-beam coupling into a z-cm-long 
 ---
 
 <p align="center">
-  <em>Exploring terahertz science through experiments, simulations, and open scientific tools.</em>
+  <em>Exploring terahertz light through experiments, simulations, and open scientific tools.</em>
 </p>
