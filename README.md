@@ -15,7 +15,7 @@ Exploring the terahertz light through experiments, simulations, and scientific t
 
 <h1 align="center">
   
-Welcome to the light beyond conventional optics—the terahertz light!
+Never gives up, great things takes time! 
 <small> </small>
 </h1>
 
