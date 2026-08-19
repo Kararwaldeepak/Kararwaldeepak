@@ -65,7 +65,7 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 
 
 
-## ➣ RECENT DEMONSTRATIONS (20 April, 2026)
+## RECENT DEMONSTRATIONS (20 April, 2026)
 
 <table>
 <tr>
@@ -116,9 +116,7 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 * ➣ **Sept 2026:** Coupling properties of broadband terahertz (THz) pulses in hollow core circular waveguides *(To be communicated soon).*
 * ➣ **Jan 2027:** Broadband THz vortex-beam generation from a spintronic emitter *(Tentative).*
 
-<h3>
-  <img src="https://img.shields.io/badge/RESEARCH-%20HIGHLIGHTS-orange?style=flat-square">
-</h3>
+## Research Highlights
 
 * ➣ **April 2026 — Journal Article:** *Spatio-spectral full-Stokes mapping of broadband terahertz pulses* — **Applied Physics Letters**, **128**, 161105.
   **DOI:** [`10.1063/5.0334055`](https://doi.org/10.1063/5.0334055)
