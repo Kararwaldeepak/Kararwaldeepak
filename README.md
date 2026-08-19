@@ -67,15 +67,6 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 
 ## ➣ RECENT DEMONSTRATIONS (20 April, 2026)
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/PUBLISHED%20IN-Applied%20Physics%20Letters-8B0000?style=for-the-badge"
-    alt="Published in Applied Physics Letters">
-</p>
-
-
-
-
 <table>
 <tr>
 <td width="180"><strong>Journal</strong></td>
