@@ -194,7 +194,7 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ## PhD Projects
 
-## I. Spatio-temporal evolution of THz Electric-Field.
+## I. Spatio-temporal evolution of terahertz Electric-Field.
 
 Do you know THz-time domain spectroscopy gives you the real time electric field of light?
 Using Electro-optic sampling of THz waves you can see the real-time electric field of light!
@@ -212,26 +212,26 @@ A THz delay scan records $N$ spatial electric-field images separated by a stage 
 <sub>➢ [https://github.com/Kararwaldeepak/thz-spatiotemporal-field-explorer]</sub><br>
 <sub>➢ [https://kararwaldeepak.github.io/thz-spatiotemporal-field-explorer/)</sub>
 
-## II. An interactive platform to study polarization of Light. 
+## II. An interactive platform to study polarization of Light (basic understanding). 
 
 Read here, An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal electric-field components. The simulator displays the polarization ellipse, animated electric-field trajectory, side and top propagation views, component waveforms, Stokes parameters, orientation angle, ellipticity angle, and handedness.
 
 <sub>➢ [Open the repository](https://github.com/kararwaldeepak/light-polarization-simulator)</sub><br>
 <sub>➢ [Run the live simulation](https://kararwaldeepak.github.io/light-polarization-simulator/)</sub>
 
-## III. Time-domain and Frequency-domain representation of a THz Pulse
+## III. Time-domain and Frequency-domain representation of a terahertz Pulse.
 An interactive educational simulation explaining the time-dependent THz electric field, Fourier-amplitude spectrum, spectral phase, pulse duration, chirp, reflections, and measurement noise.
 
 <sub>➢ [Open the repository](https://github.com/kararwaldeepak/thz-time-domain-pulse)</sub><br>
 <sub>➢ [Run the live simulation](https://kararwaldeepak.github.io/thz-time-domain-pulse/)</sub>
 
-## IV. Spectrally-resolved spatially-mapped broadband THz pulses.
+## IV. Spectrally-resolved spatial-mapping of broadband terahertz pulses.
 
 An interactive simulation explaining radially and azimuthally polarized broadband THz beams and their spatially varying electric-field distributions. The simulator displays the beam intensity, polarization-vector distribution, normalized Stokes maps \(s_1\), \(s_2\), and \(s_3\), polarization azimuth, local polarization ellipse, time-domain electric-field components, and THz spectrum.
 <sub>➢ [Open the repository](https://github.com/kararwaldeepak/Kararwaldeepak-broadband-thz-vector-beams)</sub><br>
 <sub>➢ [Run the live simulation](https://kararwaldeepak.github.io/Kararwaldeepak-broadband-thz-vector-beams/)</sub>
 
-## V. An interactive terahertz circular hollow-core waveguide mode simulator.
+## V. An interactive terahertz circular hollow-core waveguide mode analyzer (incomplete).
 Hollow-core circular waveguides provide an effective platform for guiding broadband terahertz radiation over distances beyond the free-space Rayleigh range. However, their transmission is governed by frequency-dependent coupling, modal cutoff, conductor loss, dispersion, and interference between simultaneously excited modes. 
 
 This interactive simulator examines Gaussian THz-beam coupling into a z-cm-long copper waveguide with a 2T-mm-inner-diameter using a f-mm focal-length lens. It calculates the propagation of the fundamental TE11 mode and the higher-order TM11 mode over the 0.1–2 THz range. Their individual coupling efficiencies, propagation constants, attenuation, group delays, relative phase, and coherent interference are evaluated in real time. The simulator therefore provides an intuitive framework for understanding multimode propagation and its influence on the spatial and spectral response of broadband THz circular waveguides.
