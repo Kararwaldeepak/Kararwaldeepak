@@ -8,7 +8,7 @@ This page is still under process and deployed via repositories. Enjoy the terahe
 </p>
 
 <p align="center">
-Exploring the terahertz light through experiments, simulations, and scientific tools. 
+Explore terahertz light through experiments, simulations, and scientific tools. 
 </p>
 
 <a id="top"></a>
