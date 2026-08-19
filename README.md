@@ -74,14 +74,7 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 </p>
 
 
-<h3>
-  <img src="./apl-logo.png"
-       width="150"
-       height="120"
-       align="absmiddle"
-       alt="Applied Physics Letters logo">
-  &nbsp; 
-</h3>
+
 
 <table>
 <tr>
