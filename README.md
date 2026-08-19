@@ -140,7 +140,7 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 ---
 
 <h3 id="terahertz-optics-news-research">
-## Terahertz Optics — News &amp; Research
+Terahertz Optics — News &amp; Research
 </h3>
 
 <p>
