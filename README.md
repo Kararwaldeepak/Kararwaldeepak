@@ -140,7 +140,7 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 ---
 
 <h3 id="terahertz-optics-news-research">
-  ➣ Terahertz Optics — News &amp; Research
+## Terahertz Optics — News &amp; Research
 </h3>
 
 <p>
@@ -159,7 +159,7 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 
 
 <a id="research"></a>
-## ➣ Research Background
+## Research Background
 
 My research focuses on broadband THz generation, structured THz vector beams, spatio-spectral polarization analysis of broadband THz pulses, hollow-core circular metallic waveguides, and terahertz time-domain spectroscopy.
 
@@ -167,7 +167,7 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ---
 
-## ➣ Research areas
+## Research areas
 
 - ➣ Broadband terahertz generation and detection.
 - ➣ Radially and azimuthally polarized THz vector beams.
@@ -179,7 +179,7 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 - ➣ Optics of birefringent media (Liquid crystals, uniaxial crystals etc.).
 ---
 
-## ➢ Research Tools
+## Research Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Scientific%20Computing-blue" alt="Python">
@@ -192,7 +192,7 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ---
 
-## ➢ Projects
+## PhD Projects
 
 ### ◇ I. Spatio-temporal evolution of THz Electric-Field.
 
