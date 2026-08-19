@@ -228,6 +228,7 @@ An interactive educational simulation explaining the time-dependent THz electric
 ## IV. Spectrally-resolved spatial-mapping of broadband terahertz pulses.
 
 An interactive simulation explaining radially and azimuthally polarized broadband THz beams and their spatially varying electric-field distributions. The simulator displays the beam intensity, polarization-vector distribution, normalized Stokes maps \(s_1\), \(s_2\), and \(s_3\), polarization azimuth, local polarization ellipse, time-domain electric-field components, and THz spectrum.
+
 <sub>➢ [Open the repository](https://github.com/kararwaldeepak/Kararwaldeepak-broadband-thz-vector-beams)</sub><br>
 <sub>➢ [Run the live simulation](https://kararwaldeepak.github.io/Kararwaldeepak-broadband-thz-vector-beams/)</sub>
 
