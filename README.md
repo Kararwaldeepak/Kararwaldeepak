@@ -15,7 +15,7 @@ Explore terahertz light through experiments, simulations, and scientific tools.
 
 <h1 align="center">
   
-Never gives up, great things takes time! 
+KARARWAL Deepak 
 <small> </small>
 </h1>
 
