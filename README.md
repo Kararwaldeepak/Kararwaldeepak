@@ -101,13 +101,6 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://doi.org/10.1063/5.0334055">
-    <img
-      src="https://img.shields.io/badge/Read-the%20Publication-0066CC?style=for-the-badge"
-      alt="Read the publication">
-  </a>
-</p>
 
 ## 🛡️ Hold the Line 
 
