@@ -66,7 +66,7 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 
 
 ## RECENT DEMONSTRATIONS (20 April, 2026)
-
+📖 [*Spatio-spectral full-Stokes mapping of broadband terahertz pulses*](https://www.researchgate.net/publication/403978049_Spatio-spectral_full-Stokes_mapping_of_broadband_terahertz_pulses?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0) — **230+ Reads**
 <table>
 <tr>
 <td width="180"><strong>Journal</strong></td>
