@@ -222,6 +222,8 @@ Read here, An interactive simulation for understanding linear, circular, and ell
 ## III. Time-domain and Frequency-domain representation of a terahertz Pulse.
 An interactive educational simulation explaining the time-dependent THz electric field, Fourier-amplitude spectrum, spectral phase, pulse duration, chirp, reflections, and measurement noise.
 
+See what a time-domain THz pulse actually means! It has full guide for theoretical and exeperimental study.
+
 <sub>➢ [Open the repository](https://github.com/kararwaldeepak/thz-time-domain-pulse)</sub><br>
 <sub>➢ [Run the live simulation](https://kararwaldeepak.github.io/thz-time-domain-pulse/)</sub>
 
