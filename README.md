@@ -15,7 +15,7 @@ Explore terahertz light through experiments, simulations, and scientific tools.
 
 <h1 align="center">
   
-Bienvenue! 
+Spatio-temporal modelling of terahertz light! 
 <small> </small>
 </h1>
 
