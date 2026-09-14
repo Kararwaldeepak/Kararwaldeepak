@@ -66,8 +66,8 @@ Joint supervision: Prof. Francois Blanchard and Prof. Emmanuel Abraham
 ---
 <a href="https://www.u-bordeaux.fr/actualites/emmanuel-abraham-le-physicien-des-faux-pas" target="_blank">
  Prof. Emmanuel Abraham, the physicist of missteps
-</a>
-
+</a> a competitor on the trails, a researcher in the lab, Emmanuel Abraham pursues the same obsession: precision. A two-time French and European Nordic walking champion, the teacher-researcher at the UF of Physics and the Aquitaine Wave and Matter Laboratory is developing software capable of detecting competitors mistakes in order to help judges decide with other than the naked eye. Emmanuel Abraham is 56 years old. Teacher-researcher at the UF of Physics, from 9 a.m. to 5:30 p.m., his job is "researcher". In the evening, he puts away the equations, grabs the poles and goes to train at the Canéjan athletics club. On the one hand, the physicist. On the other, the French and European Nordic walking champion. If everything opposes these lifestyles a priori, what separates their genetic components seems almost anecdotal. With a few chromosomes, Emmanuel Abraham does exactly the same thing day and night: he observes, measures, tracks down mistakes. He is moving forward. In the lab as well as on the trails, he looks for what escapes the naked eye. 
+Only the thoughts that come to you while walking have value," wrote Friedrich Nietzsche, referring to Flaubert who could only write while sitting. With Emmanuel Abraham, everything seems to start with movement. Thinking while walking. Searching as you go. The story does not say what future its software is destined for. One thing is certain: from lecture halls to trails, from competition to research, the walker advances in an in-between where the body and the mind serve both as a scientific tool and as a playground.
 <br>
 
 <a href="https://www.etsmtl.ca/recherche-innovation/chaires-laboratoires-instituts-centres/chaires-recherche/chaire-recherche-canada-cryptage-spatiotemporel-terahertz" target="_blank">
