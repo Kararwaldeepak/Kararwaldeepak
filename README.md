@@ -62,8 +62,17 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 <a id="news"></a>
 
 
+Joint supervision: Prof. Francois Blanchard and Prof. Emmanuel Abraham
+---
+<a href="https://www.u-bordeaux.fr/actualites/emmanuel-abraham-le-physicien-des-faux-pas" target="_blank">
+ Prof. Emmanuel Abraham, the physicist of missteps
+</a>
 
+<br>
 
+<a href="https://www.etsmtl.ca/recherche-innovation/chaires-laboratoires-instituts-centres/chaires-recherche/chaire-recherche-canada-cryptage-spatiotemporel-terahertz" target="_blank">
+  Prof. François Blanchard — Canada Research Chair in Spatiotemporal Encoding of Terahertz Waves
+</a>
 
 ## RECENT DEMONSTRATIONS (20 April, 2026)
 [*Spatio-spectral full-Stokes mapping of broadband terahertz pulses*](https://www.researchgate.net/publication/403978049_Spatio-spectral_full-Stokes_mapping_of_broadband_terahertz_pulses?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0)
