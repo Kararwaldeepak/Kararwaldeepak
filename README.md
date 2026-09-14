@@ -106,8 +106,6 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 
 * ➣ <strong>Apr 2026:</strong> Spatio-spectral full-Stokes mapping of broadband terahertz pulses (<span style="color:green"><em>Completed</em></span>).
 * ➣ **Oct 2026:** Generation and detection of broadband THz vector beams from a spintronic emitter *(To be communicated soon).*
-* ➣ **Sept 2026:** Coupling properties of broadband terahertz (THz) pulses in hollow core circular waveguides *(To be communicated soon).*
-* ➣ **Jan 2027:** Broadband THz vortex-beam generation from a spintronic emitter *(Tentative).*
 
 ## Research Highlights
 
