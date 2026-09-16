@@ -8,7 +8,7 @@ This page is still under process and deployed via repositories. Enjoy the terahe
 </p>
 
 <p align="center">
-Explore terahertz light through experiments, simulations, and scientific tools. All the HTML codes are written by my nephew— [anmolomaly (Anmol)](https://github.com/anmolomaly). 
+Explore terahertz light through experiments, simulations, and scientific tools. I sincerely thank my nephew—anmolmany as all the HTML codes are written by him-[https://github.com/anmolomaly]. 
 </p>
 
 <a id="top"></a>
