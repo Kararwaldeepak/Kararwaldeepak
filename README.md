@@ -9,7 +9,7 @@ This page is still under process and deployed via repositories. Enjoy the terahe
 
 <p align="center">
   Explore terahertz light through experiments, simulations, and scientific tools.<br>
-  I sincerely thank my nephew, <a href="https://github.com/anmolomaly">anmolomaly (Anmol)</a>, who wrote all the HTML code for this website.
+  I sincerely thank my nephew, <a href="https://github.com/anmolomaly">anmolomaly (Anmol)</a> and ChatGpt, who helped me in writing all the HTML code for this website.
 </p>
 
 <a id="top"></a>
