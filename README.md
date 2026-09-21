@@ -74,7 +74,7 @@ Only the thoughts that come to you while walking have value," wrote Friedrich Ni
 </a>
 Behind the THz experiments, ultrafast lasers, and equations lies a rather unexpected journey. Prof. François Blanchard did not take the conventional road to academia. He first spent years in industry, working hands-on with instrumentation and materials, before curiosity pulled him back toward scientific research. That decision would eventually take him from INRS to Kyoto University, then McGill University, and finally ÉTS Montréal. But François has never lived only in the laboratory. Alongside science, music has been part of his creative world—as a composer, performer, and producer. He was also deeply involved in university life, including serving as a student-association president. From engineering and music to international research, creativity seems to have followed him everywhere. Perhaps that is what makes his story so interesting: it was never a straight line. Industry led to research, research led to Japan, and unexpected encounters opened entirely new directions. From music to terahertz waves, and from Canada to Japan and back, his journey is a reminder that some of the most exciting scientific careers are not carefully mapped in advance—they are shaped by curiosity, people, creativity, and the courage to follow an unexpected path.
 
-### Myself (totally scattered by )
+### Myself
 
 ## RECENT DEMONSTRATIONS (20 April, 2026)
 [*Spatio-spectral full-Stokes mapping of broadband terahertz pulses*](https://www.researchgate.net/publication/403978049_Spatio-spectral_full-Stokes_mapping_of_broadband_terahertz_pulses?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0)
