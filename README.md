@@ -56,9 +56,7 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 “The most valuable mathematics I learnt today, is — how to calculate the future cost of my current decisions!”
 </p>
 
-
 ---
-
 
 <a id="news"></a>
 
