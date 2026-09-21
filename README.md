@@ -22,7 +22,7 @@ Spatio-temporal shaping/modelling of terahertz light!
 </h2>
 
 <h3 style="font-size: xx-small; text-align: left;">
-  PhD Student (Spatio-temporal shaping of terahertz light), [Full time: Oct 2023-present].<br> at
+  PhD Student (Spatio-temporal shaping of terahertz light) [Full time: Oct 2023-present].<br> at
   Department of Electrical Engineering, 
   École de technologie supérieure — ÉTS Montréal, Canada.
 </h3>
