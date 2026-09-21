@@ -44,15 +44,15 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
  OVERVIEW 
 </h3>
 
-<h6 align="center">
+<h5 align="center">
   <a href="#beyond-the-lab"><strong>BEYOND THz LAB</strong></a> •
   <a href="#news"><strong>RECENT DEMONSTRATION</strong></a> •
   <a href="#research-highlights"><strong>RESEARCH HIGHLIGHTS</strong></a> •
-  <a href="#research"><strong>RESEARCH BACKGROUND</strong></a> •
+  <a href="#research"><strong>RESEARCH BACKGROUND</strong></a> <br>
   <a href="#projects"><strong>PhD PROJECTS</strong></a> •
   <a href="#terahertz-optics-news-and-research"><strong>THz OPTICS NEWS AND RESEARCH</strong></a> •
-  <a href="#connect"><strong>CONNECT</strong></a> •
-</h6>
+  <a href="#connect"><strong>CONNECT</strong></a> 
+</h5>
 
 
 <p align="center">
