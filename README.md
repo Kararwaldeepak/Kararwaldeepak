@@ -62,8 +62,8 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 
 <a id="news"></a>
 
-### Stories beyond the terahertz Laboratory (Joint supervision: Prof. Francois Blanchard and Prof. Emmanuel Abraham)
----
+### Stories far beyond terahertz Lab (Joint supervision: Prof. Francois Blanchard and Prof. Emmanuel Abraham)
+
 <a href="https://www.u-bordeaux.fr/actualites/emmanuel-abraham-le-physicien-des-faux-pas" target="_blank">
  Prof. Emmanuel Abraham, the physicist of missteps
 </a> a competitor on the trails, a researcher in the lab, Emmanuel Abraham pursues the same obsession: precision. A two-time French and European Nordic walking champion, the teacher-researcher at the UF of Physics and the Aquitaine Wave and Matter Laboratory is developing software capable of detecting competitors mistakes in order to help judges decide with other than the naked eye. Emmanuel Abraham is 56 years old. Teacher-researcher at the UF of Physics, from 9 a.m. to 5:30 p.m., his job is "researcher". In the evening, he puts away the equations, grabs the poles and goes to train at the Canéjan athletics club. On the one hand, the physicist. On the other, the French and European Nordic walking champion. If everything opposes these lifestyles a priori, what separates their genetic components seems almost anecdotal. With a few chromosomes, Emmanuel Abraham does exactly the same thing day and night: he observes, measures, tracks down mistakes. He is moving forward. In the lab as well as on the trails, he looks for what escapes the naked eye. 
