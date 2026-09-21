@@ -45,12 +45,14 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 </h3>
 
 <h6 align="center">
+  <a href="#beyond-the-lab"><strong>BEYOND THz LAB</strong></a> •
   <a href="#news"><strong>RECENT DEMONSTRATION</strong></a> •
+  <a href="#research-highlights"><strong>RESEARCH HIGHLIGHTS</strong></a> 
   <a href="#research"><strong>RESEARCH BACKGROUND</strong></a> •
   <a href="#projects"><strong>PhD PROJECTS</strong></a> •
   <a href="#terahertz-optics-news-and-research"><strong>THz OPTICS NEWS AND RESEARCH</strong></a> •
   <a href="#connect"><strong>CONNECT</strong></a> •
-  <a href="#research-highlights"><strong>RESEARCH HIGHLIGHTS</strong></a> 
+  <a href="#connect"><strong>CONNECT</strong></a> 
 </h6>
 
 
@@ -70,6 +72,7 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 Only the thoughts that come to you while walking have value," wrote Friedrich Nietzsche, referring to Flaubert who could only write while sitting. With Emmanuel Abraham, everything seems to start with movement. Thinking while walking. Searching as you go. The story does not say what future its software is destined for. One thing is certain: from lecture halls to trails, from competition to research, the walker advances in an in-between where the body and the mind serve both as a scientific tool and as a playground.
 <br>
 
+<a id="beyond-the-lab"></a>
 ### Beyond the Laboratory
 <a href="https://www.etsmtl.ca/recherche-innovation/chaires-laboratoires-instituts-centres/chaires-recherche/chaire-recherche-canada-cryptage-spatiotemporel-terahertz" target="_blank">
   Prof. François Blanchard — Canada Research Chair in Spatiotemporal Encoding of Terahertz Waves. 
