@@ -21,15 +21,15 @@ Spatio-temporal shaping/modelling of terahertz light!
 </h2>
 
 <h3 style="font-size: xx-small; text-align: left;">
-  PhD Student (Spatio-temporal shaping of terahertz light), (Full time: Oct 2023-present).<br> at
+  PhD Student (Spatio-temporal shaping of terahertz light), [Full time: Oct 2023-present].<br> at
   Department of Electrical Engineering, 
   École de technologie supérieure — ÉTS Montréal, Canada.
 </h3>
 
-<h4 align="left">
-joint supervision (Contract [full-time]: June 2025-September 30). <br>
+<h3 align="left">
+joint supervision [Contract (full-time): June 2025-September 30]. <br>
 Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lasers d'Aquitaine)
-</h4>
+</h3>
 
 <p align="center">
   <strong>Terahertz Sources</strong> •
