@@ -72,7 +72,7 @@ Only the thoughts that come to you while walking have value," wrote Friedrich Ni
 <br>
 
 <a id="beyond-the-lab"></a>
-### Beyond the Laboratory
+### Beyond the THz Laboratory
 <a href="https://www.etsmtl.ca/recherche-innovation/chaires-laboratoires-instituts-centres/chaires-recherche/chaire-recherche-canada-cryptage-spatiotemporel-terahertz" target="_blank">
   Prof. François Blanchard — Canada Research Chair in Spatiotemporal Encoding of Terahertz Waves. 
 </a>
