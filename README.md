@@ -5,7 +5,7 @@
 </a>
 <p align="center">
 This page is still under process and deployed via repositories. Enjoy the terahertz interactive simulations (project hyperlinks), theory, articles, and much more. To all repositories for interactive terahertz simulation — Access is granted! <br>
-   <strong>beyond Terahertz Lab</strong>
+   
 </p>
 
 <p align="center">
