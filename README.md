@@ -120,7 +120,7 @@ Behind the THz experiments, ultrafast lasers, and equations lies a rather unexpe
 ## 🛡️ Hold the Line 
 
 * ➣ <strong>Apr 2026:</strong> Spatio-spectral full-Stokes mapping of broadband terahertz pulses (<span style="color:green"><em>Completed</em></span>).
-* ➣ **Sept 2026:** Generation and detection of broadband THz vector beams from a spintronic emitter *(Submitted to Appl.phys. lett.).*
+* ➣ **Sept 2026:** Generation and detection of broadband THz vector beams from a spintronic emitter *(Submitted to Appl. phys. lett.).*
 * ➣ **Sept 2026:** Coupling properties of broadband terehertz pulses in hollow-core circular waveguides *(Submitted to JOSA B).*
 
 <a id="#research-highlights"></a>
