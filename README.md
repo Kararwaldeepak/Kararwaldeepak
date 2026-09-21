@@ -44,9 +44,9 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 </h3>
 
 <p align="center">
-  <a href="#news"><strong>NEWS</strong></a> •
-  <a href="#research"><strong>RESEARCH</strong></a> •
-  <a href="#projects"><strong>PROJECTS</strong></a> •
+  <a href="#news"><strong>RECENT DEMONSTRATION</strong></a> •
+  <a href="#research"><strong>RESEARCH BACKGROUND</strong></a> •
+  <a href="#projects"><strong>Ph.D PROJECTS</strong></a> •
   <a href="#terahertz-optics-news-and-research"><strong>Terahertz Optics News and Research</strong></a> •
   <a href="#connect"><strong>CONNECT</strong></a> 
 </p>
@@ -193,7 +193,7 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 </p>
 
 ---
-
+<a id="projects"></a>
 ## PhD Projects
 
 ## I. Time-domain and Frequency-domain representation of a terahertz Pulse.
@@ -249,6 +249,7 @@ This interactive simulator examines Gaussian THz-beam coupling into a z-cm-long 
 
 ---
 
+<a id="connect"></a>
 ## 📫 Connect
 
 - ➤ GitHub: [kararwaldeepak](https://github.com/kararwaldeepak)
