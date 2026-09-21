@@ -4,7 +4,8 @@
     alt="ResearchGate Profile">
 </a>
 <p align="center">
-This page is still under process and deployed via repositories. Enjoy the terahertz interactive simulations (project hyperlinks), theory, articles, and much more. To all repositories for interactive terahertz simulation — Access is granted! 
+This page is still under process and deployed via repositories. Enjoy the terahertz interactive simulations (project hyperlinks), theory, articles, and much more. To all repositories for interactive terahertz simulation — Access is granted! <br>
+   <strong>beyond Terahertz Lab</strong>
 </p>
 
 <p align="center">
@@ -43,13 +44,14 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
  OVERVIEW 
 </h3>
 
-<p align="center">
+<h6 align="center">
   <a href="#news"><strong>RECENT DEMONSTRATION</strong></a> •
   <a href="#research"><strong>RESEARCH BACKGROUND</strong></a> •
-  <a href="#projects"><strong>Ph.D PROJECTS</strong></a> •
-  <a href="#terahertz-optics-news-and-research"><strong>Terahertz Optics News and Research</strong></a> •
-  <a href="#connect"><strong>CONNECT</strong></a> 
-</p>
+  <a href="#projects"><strong>PhD PROJECTS</strong></a> •
+  <a href="#terahertz-optics-news-and-research"><strong>THz OPTICS NEWS AND RESEARCH</strong></a> •
+  <a href="#connect"><strong>CONNECT</strong></a> •
+  <a href="#research-highlights"><strong>RESEARCH HIGHLIGHTS</strong></a> 
+</h6>
 
 
 <p align="center">
@@ -118,6 +120,7 @@ Behind the THz experiments, ultrafast lasers, and equations lies a rather unexpe
 * ➣ <strong>Apr 2026:</strong> Spatio-spectral full-Stokes mapping of broadband terahertz pulses (<span style="color:green"><em>Completed</em></span>).
 * ➣ **Oct 2026:** Generation and detection of broadband THz vector beams from a spintronic emitter *(To be communicated soon).*
 
+<a id="#research-highlights"></a>
 ## Research Highlights
 
 * ➣ **April 2026 — Journal Article:** *Spatio-spectral full-Stokes mapping of broadband terahertz pulses* — **Applied Physics Letters**, **128**, 161105.
@@ -140,7 +143,7 @@ Behind the THz experiments, ultrafast lasers, and equations lies a rather unexpe
 </p>
 
 ---
-
+<a id="#terahertz-optics-news-and-research"></a>
 <h3 id="terahertz-optics-news-research">
 Terahertz Optics — News &amp; Research
 </h3>
