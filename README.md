@@ -62,8 +62,7 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 
 <a id="news"></a>
 
-
-Joint supervision: Prof. Francois Blanchard and Prof. Emmanuel Abraham
+### Stories beyond the terahertz Laboratory (Joint supervision: Prof. Francois Blanchard and Prof. Emmanuel Abraham)
 ---
 <a href="https://www.u-bordeaux.fr/actualites/emmanuel-abraham-le-physicien-des-faux-pas" target="_blank">
  Prof. Emmanuel Abraham, the physicist of missteps
