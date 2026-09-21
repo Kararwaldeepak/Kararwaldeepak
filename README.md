@@ -4,13 +4,13 @@
     alt="ResearchGate Profile">
 </a>
 <p align="center">
-This page is still under process and deployed via repositories. Enjoy the terahertz interactive simulations (project hyperlinks), theory, articles, and much more. To all repositories for interactive terahertz simulation — Access is granted! <br>
+This page is still under process (inactive since 2025) and deployed via repositories. Enjoy the terahertz interactive simulations (project hyperlinks), theory, articles, and much more. The project in simulations are my PhD projects that runs on HTML codes. To all repositories for interactive terahertz simulation — Access is granted! don't be a copy-cat! <br>
    
 </p>
 
 <p align="center">
   Explore terahertz light through experiments, simulations, and scientific tools.<br>
-  I sincerely thank my nephew, <a href="https://github.com/anmolomaly"> anmolomaly (Anmol-BTech-CS)</a> and ChatGpt, who helped me in writing all the HTML code for this website.
+  I sincerely thank my nephew, <a href="https://github.com/anmolomaly"> anmolomaly (Anmol-BTech-CS)</a> and ChatGpt, who helped me in writing all the HTML codes for this website.
 </p>
 
 <a id="top"></a>
