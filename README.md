@@ -22,7 +22,7 @@ Spatio-temporal shaping/modelling of terahertz light!
 </h2>
 
 <h3 style="font-size: xx-small; text-align: left;">
-  PhD Student (Spatio-temporal shaping of terahertz light) [Full time: Oct 2023-present].<br> at
+  PhD Student (Spatio-temporal shaping of terahertz light) [Full time: Oct 2023-present] <br> at
   Department of Electrical Engineering, 
   École de technologie supérieure — ÉTS Montréal, Canada.
 </h3>
@@ -34,10 +34,10 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 
 <p align="center">
   <strong>Terahertz Sources</strong> •
-  <strong>Structured THz Vector Beams</strong> •
+  <strong>Structured Vector Beams</strong> •
   <strong>Terahertz Polarimetry</strong> •
-  <strong>Polarization and Phase Imaging</strong> •
-  <strong>Terahertz Waveguides</strong> •
+  <strong>Terahertz Imaging</strong> •
+  <strong>Terahertz Waveguides</strong> 
 </p>
 
 <h3 align="center">
