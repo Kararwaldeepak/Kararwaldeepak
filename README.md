@@ -28,7 +28,7 @@ Spatio-temporal shaping/modelling of terahertz light!
 </h3>
 
 <h3 align="left">
-joint supervision [Contract (full-time): June 2025-September 30]. <br>
+joint supervision [Contract (full-time): June 2025-September 30: Registration suspended]. <br>
 Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lasers d'Aquitaine)
 </h3>
 
