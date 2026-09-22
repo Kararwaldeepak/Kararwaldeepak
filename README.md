@@ -35,9 +35,10 @@ Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lase
 <p align="center">
   <strong>Terahertz Sources</strong> •
   <strong>Structured Vector Beams</strong> •
-  <strong>Polarization Imaging</strong> •
+  <strong>Terahertz Polarimetry</strong> •
+  <strong>Polarization and Phase Imaging</strong> •
   <strong>Terahertz Waveguides</strong> •
-  <strong>Scientific Computing</strong>
+  <strong>Terahertz Computation</strong>
 </p>
 
 <h3 align="center">
