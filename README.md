@@ -255,5 +255,5 @@ This interactive simulator examines Gaussian THz-beam coupling into a z-cm-long 
 ---
 
 <p align="center">
-  <em>Exploring terahertz light through experiments, simulations, and open scientific tools.</em>
+  <em>Exploring terahertz science through experiments, simulations, and open scientific tools.</em>
 </p>
