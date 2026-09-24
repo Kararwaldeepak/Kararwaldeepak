@@ -4,12 +4,12 @@
     alt="ResearchGate Profile">
 </a>
 <p align="center">
-This page is intact since Jan 2024, under construction and deployed via repositories. All of my PhD projects are not yet updated at their max. potential, yet you can have access to basic physics associated. They will be publicly available after proper licencing and publishing. <br> Alright!! Enjoy the terahertz interactive simulations (project hyperlinks-HTML-based simulations), theory, articles, and much more. I personally don't like HTML but it is what it is! The project in simulations are my PhD projects that runs on HTML codes. Read all hyperlinks in blue color texts. To all repositories for interactive terahertz simulation — I have granted access to public! <br>
+This page is intact since Jan 2024, under construction and deployed via repositories. All of my PhD projects are not yet updated at their max. potential, yet you can have access to basic physics associated. They will be publicly available after proper licencing and publishing. <br> Alright!! Enjoy the terahertz interactive simulations (project hyperlinks-HTML-based simulations), theory, articles, and much more. I personally don't like HTML but it is what it is! The project in simulations are my PhD projects that runs on HTML codes (they will work with your internet browser). Read all hyperlinks in blue color texts. To all repositories for interactive terahertz simulation — I have granted access to public! <br>
    
 </p>
 
 <p align="center">
-  Explore terahertz light through experiments, simulations, and scientific tools. <br>
+  Explore terahertz light through experiments, simulations, and scientific tools. 
   I sincerely thank <a href="https://github.com/anmolomaly"> anmolomaly (A young BTech-CS student, expert in scientific computation)</a> and ChatGpt, who helped me in writing all the HTML codes for this website. 
 
 </p>
@@ -29,8 +29,8 @@ Spatio-temporal shaping/modelling of terahertz light!
 </h3>
 
 <h3 align="left">
-joint supervision [Contract (full-time): June 2025-September 30: Registration suspended]. <br>
-Bordeaux university—Aquitaine Optics and Lasers Centre (Centre Optique et Lasers d'Aquitaine)
+joint supervision [Contract (full-time): June 2025-September 30: (Inscription suspendue)]. <br>
+Bordeaux university—Optical Centre and Aquitaine Laser (Centre Optique et Lasers d'Aquitaine)
 </h3>
 
 <p align="center">
@@ -82,25 +82,13 @@ Behind the THz experiments, ultrafast lasers, and equations lies a rather unexpe
 ### Myself
 
 ## RECENT DEMONSTRATIONS (20 April, 2026)
-[*Spatio-spectral full-Stokes mapping of broadband terahertz pulses*](https://www.researchgate.net/publication/403978049_Spatio-spectral_full-Stokes_mapping_of_broadband_terahertz_pulses?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0)
+[*Spatio-spectral full-Stokes mapping of broadband terahertz pulses.* ](https://www.researchgate.net/publication/403978049_Spatio-spectral_full-Stokes_mapping_of_broadband_terahertz_pulses?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0) <br>
+[The key to the detection is the azimuthal dependance of <110> cut nonlinear electro-optic detection crystal. Combining Stokes analysis with two-dimentional electro-optic detection the frequency-resolved mapping of broadband terahertz pulses has been demonstrated.]
 <table>
 <tr>
 <td width="180"><strong>Journal</strong></td>
 <td><strong>Applied Physics Letters (APL)</strong></td>
 </tr>
-
-<tr>
-<td><strong>Article</strong></td>
-<td><em>Spatio-spectral full-Stokes mapping of broadband terahertz pulses</em></td>
-</tr>
-
-<tr>
-<td><strong>Authors</strong></td>
-<td><em>D. Kararwal, T. Guillaume, J. Degert, E. Freysz, F. Blanchard, and E. Abraham</em></td>
-</tr>
-
-
-
 
 <tr>
 <td><strong>Publication date</strong></td>
@@ -136,7 +124,7 @@ Behind the THz experiments, ultrafast lasers, and equations lies a rather unexpe
 * ➣ **April 2025 — Journal Article:** *A continuous plane of polarization rotator and detector based on the liquid crystal Θ-cell* —  **Optics & Laser Technology**, **182**, 112138.
   **DOI:** [`10.1016/j.optlastec.2024.112138`](https://doi.org/10.1016/j.optlastec.2024.112138)
 
-* ➣ **November 2023 — Patent:** *System for Detection of a Plane of Polarization of Light and Method Thereof* — A liquid-crystal-based system for real-time detection of the plane of polarization. [Indian Patent Application Number: 202311077708]  [First examination report (FER) submitted (July 2026)] [Intellectual Property India](https://iprsearch.ipindia.gov.in/PublicSearch?aspxerrorpath=/PatentSearch/PatentSearch/ViewApplicationStatus) [Prof. Aloka Sinha | Patents](https://web.iitd.ac.in/~aloka/patents.html)
+* ➣ **November 2023 — Patent:** *System for Detection of a Plane of Polarization of Light and Method Thereof*. [Indian Patent Application Number: 202311077708]  [First examination report (FER) submitted (July 2026)] [Intellectual Property India](https://iprsearch.ipindia.gov.in/PublicSearch?aspxerrorpath=/PatentSearch/PatentSearch/ViewApplicationStatus) [Prof. Aloka Sinha | Patents](https://web.iitd.ac.in/~aloka/patents.html)
 
 
 </p>
