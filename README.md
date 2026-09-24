@@ -10,7 +10,7 @@ This page is intact since Jan 2024, under construction and deployed via reposito
 
 <p align="center">
   Explore terahertz light through experiments, simulations, and scientific tools. 
-  I sincerely thank <a href="https://github.com/anmolomaly"> anmolomaly (A young BTech-CS student, expert in scientific computation)</a> and ChatGpt, who helped me in writing all the HTML codes for this website. 
+  I sincerely thank <a href="https://github.com/anmolomaly"> anmolomaly (A young BTech-CS student, good in HTML-computation)</a> and ChatGpt, who helped me in writing all the HTML codes for this website. 
 
 </p>
 
