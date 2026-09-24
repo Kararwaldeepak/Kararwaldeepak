@@ -158,9 +158,7 @@ Terahertz Optics — News &amp; Research
 <a id="research"></a>
 ## Research Background
 
-My research focuses on broadband THz generation, structured THz vector beams, spatio-spectral polarization analysis of broadband THz pulses, hollow-core circular metallic waveguides, and terahertz time-domain spectroscopy.
-
-I combine experimental optics, electromagnetic simulations, signal processing, and scientific visualization to investigate THz emission, propagation, polarization, and light–matter interactions.
+My research focuses on broadband THz generation, structured THz vector beams, spatio-spectral analysis of broadband THz pulses, hollow-core circular metallic waveguides, and terahertz time-domain spectroscopy. 
 
 ---
 
