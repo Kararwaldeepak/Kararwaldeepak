@@ -4,7 +4,7 @@
     alt="ResearchGate Profile">
 </a>
 <p align="center">
-This page is intact since Jan 2024, under construction and deployed via repositories. All of my PhD projects are not yet updated at their max. potential, yet you can have access to basic physics associated. They will be publicly available after proper licencing and publishing. <br> Alright!! Enjoy the terahertz interactive simulations (project hyperlinks-HTML-based simulations), theory, articles, and much more. I personally don't like HTML but it is what it is! The project in simulations are my PhD projects that runs on HTML codes (they will work with your internet browser). Read all hyperlinks in blue color texts. To all repositories for interactive terahertz simulation — I have granted access to public! <br>
+This page is intact since Jan 2024, under construction and deployed via repositories. All of my PhD projects are not yet updated at their max. potential, yet you can have access to basic physics associated (updated in July 2026). They will be publicly available after proper licencing and publishing. <br> Alright!! Enjoy the terahertz interactive simulations (project hyperlinks-HTML-based simulations), theory, articles, and much more. I personally don't like HTML but it is what it is! The project in simulations are my PhD projects that runs on HTML codes (they will work with your internet browser). Read all hyperlinks in blue color texts. To all repositories for interactive terahertz simulation — I have granted access to public! <br>
    
 </p>
 
